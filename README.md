@@ -62,7 +62,7 @@ Here are a few things I’ve worked on:
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
